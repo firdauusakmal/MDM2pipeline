@@ -1,6 +1,3 @@
-# MDM2pipeline
-Comprehensive pipeline for identifying potential MDM2 inhibitors: Dataset curation, molecular standardization, selective cleaning, ML-based virtual screening, docking simulations, and MD analysis. Integrates ChemProp, RDKit, MOE, and ONIOM for dynamic interactions and binding affinity studies.
-
 # MDM2 Inhibitor Discovery Pipeline
 
 This repository contains a comprehensive pipeline for identifying potential MDM2 inhibitors using machine learning (ML) and molecular simulations. It integrates data preprocessing, virtual screening, docking studies, and molecular dynamics simulations to predict and evaluate bioactive compounds.
