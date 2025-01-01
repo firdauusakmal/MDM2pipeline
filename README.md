@@ -66,7 +66,7 @@ This repository contains a comprehensive pipeline for identifying potential MDM2
 - **Molecular Dynamics**: MOE with AMBER10 forcefield
 
 ## License
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
+This project is licensed under the [Apache License 2.0](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
 
 ## Acknowledgments
 
@@ -74,5 +74,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 - Developers of Scikit-learn, RDKit, ChemProp, and MOE for their excellent tools and frameworks.
 
 ## Contact
-For questions or collaborations, please contact [Your Name](mailto:your.email@example.com).
-
+For questions or collaborations, please contact [Firdaus Akmal] (mail to: firdaus.akmal@u.nus.edu).
