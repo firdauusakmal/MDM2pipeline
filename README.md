@@ -4,7 +4,7 @@ This repository contains a comprehensive pipeline for identifying potential MDM2
 
 ## Overview
 
-### Key Features:
+### Highlights:
 1. **Training Dataset Preparation**:
    - Curated a diverse dataset of known MDM2 inhibitors with IC50 potency from ChEMBL.
    - Utilized Pandas for data cleaning and preprocessing.
@@ -74,4 +74,4 @@ This project is licensed under the [Apache License 2.0](LICENSE). Feel free to u
 - Developers of Scikit-learn, RDKit, ChemProp, and MOE for their excellent tools and frameworks.
 
 ## Contact
-For questions or collaborations, please contact [Firdaus Akmal] (mail to: firdaus.akmal@u.nus.edu).
+For questions or collaborations, please send your mail to firdaus.akmal@u.nus.edu.
