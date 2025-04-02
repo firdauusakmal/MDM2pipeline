@@ -4,7 +4,6 @@ This repository contains a comprehensive pipeline for identifying potential MDM2
 
 ## Overview
 
-### Highlights:
 1. **Training Dataset Preparation**:
    - Curated a diverse dataset of known MDM2 inhibitors with IC50 potency from ChEMBL.
    - Utilized Pandas for data cleaning and preprocessing.
