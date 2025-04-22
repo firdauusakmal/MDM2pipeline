@@ -1,0 +1,39 @@
+# WARNING: atom    3 in C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf is deduced as an acidic nitrogen
+# WARNING: can't deduce type of atom 1 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf# WARNING: can't deduce type of atom 6 (currently N.3, 5) in C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf# WARNING: can't deduce type of atom 13 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf# WARNING: can't deduce type of atom 20 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf# WARNING: can't deduce type of atom 21 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf# WARNING: can't deduce type of atom 22 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf# WARNING: can't deduce type of atom 23 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf# WARNING: can't deduce type of atom 28 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf# WARNING: can't deduce type of atom 29 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf# WARNING: can't deduce type of atom 32 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf# WARNING: can't deduce type of atom 33 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf
+--------------------------------------------------------------------------------
+--- Ligand                                                                   ---
+--------------------------------------------------------------------------------
+  Ligand loaded from file                  : C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf
+  Ligand name                              :  
+  "OTENABANT                                                                "
+
+--------------------------------------------------------------------------------
+  N.plc donors                             : 
+  none found
+
+  Acidic nitrogen acceptors                : 
+
+  3    
+  Sulfur acceptors                         :
+  none found
+
+
+  Donor atoms                              :      0
+  
+  Acceptor atoms                           :      6
+  3   6   7   12  14  17  
+
+********************************* Ligand Error ************************** 
+   Ligand from file C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf
+   number 1
+   name OTENABANT
+   file start point 0
+   Error message: Lone pair addition failed. Please check any warnings above
+   in this file to identify which atom caused the problem
+   Please note that warnings listed in the file D:/PhD Research/MDM2 Project/Re-docking\gold.err
+   may give you more information as to the nature
+   of the problem with this ligand
+************************************************************************* 
+  Skipping Ligand                          : C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf
+--------------------------------------------------------------------------------
+

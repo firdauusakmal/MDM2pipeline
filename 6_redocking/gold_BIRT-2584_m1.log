@@ -1,0 +1,41 @@
+# WARNING: atom    3 in C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf is deduced as an acidic nitrogen
+# WARNING: can't deduce type of atom 1 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf# WARNING: can't deduce type of atom 8 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf# WARNING: can't deduce type of atom 13 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf# WARNING: can't deduce type of atom 16 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf# WARNING: can't deduce type of atom 17 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf# WARNING: can't deduce type of atom 24 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf# WARNING: can't deduce type of atom 25 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf# WARNING: can't deduce type of atom 30 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf# WARNING: can't deduce type of atom 33 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf# WARNING: can't deduce type of atom 36 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf# WARNING: can't deduce type of atom 38 (currently N.3, 5) in C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf
+--------------------------------------------------------------------------------
+--- Ligand                                                                   ---
+--------------------------------------------------------------------------------
+  Ligand loaded from file                  : C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf
+  Ligand name                              :  
+  "Unii-24P4O1J71F                                                          "
+
+--------------------------------------------------------------------------------
+  N.plc donors                             : 
+  none found
+
+  Acidic nitrogen acceptors                : 
+
+  3    
+  Sulfur acceptors                         :
+  none found
+
+   5 (SO2 acceptor)
+   6 (SO2 acceptor)
+
+  Donor atoms                              :      0
+  
+  Acceptor atoms                           :      8
+  3   5   6   9   19  27  38  39  
+
+********************************* Ligand Error ************************** 
+   Ligand from file C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf
+   number 1
+   name Unii-24P4O1J71F
+   file start point 0
+   Error message: Lone pair addition failed. Please check any warnings above
+   in this file to identify which atom caused the problem
+   Please note that warnings listed in the file D:/PhD Research/MDM2 Project/Re-docking\gold.err
+   may give you more information as to the nature
+   of the problem with this ligand
+************************************************************************* 
+  Skipping Ligand                          : C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf
+--------------------------------------------------------------------------------
+

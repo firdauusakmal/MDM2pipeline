@@ -1,0 +1,9 @@
+# File containing a listing of the fitness of the top-ranked
+# individual for each ligand docked in GOLD.
+#
+# Format is:
+#
+#     Score     S(PLP)   S(hbond)     S(cho)   S(metal)  DE(clash)   DE(tors)     intcor     time                               File name                Ligand name
+
+     65.51     -60.31       3.13       0.00       0.00       0.07       5.06       6.00   10.000  'D:/PhD Research/MDM2 Project/Re-docking\gold_soln_atorvastatin_m1_5.sdf'             'Atorvastatin'
+     54.88     -54.39       0.34       0.00       0.00       0.00       2.13       3.55    3.000  'D:/PhD Research/MDM2 Project/Re-docking\gold_soln_meppep_m1_1.sdf'                   'MEPPEP'

@@ -1,0 +1,15 @@
+@<TRIPOS>MOLECULE
+A:6Q9L
+     1     0     1     0     1
+SMALL
+USER_CHARGES
+****
+Generated from the CSD - Crystal connectivity not present
+
+@<TRIPOS>ATOM
+     1 CL       6.5600  13.1283   1.4650   Cl        1 CL203  -1.0000
+@<TRIPOS>SUBSTRUCTURE
+     1 CL203       1 GROUP             0 A     CL      0  
+@<TRIPOS>SET
+CCDC_LIGAND STATIC ATOMS
+1 1 

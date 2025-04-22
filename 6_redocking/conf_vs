@@ -1,0 +1,13 @@
+receptor = 6q9l_fix.pdbqt
+
+center_x = 12
+center_y = 14.5
+center_z = 2.5
+
+size x = 25
+size y = 35
+size z = 30
+
+num_modes = 10
+energy_range = 4
+

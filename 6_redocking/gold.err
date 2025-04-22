@@ -1,0 +1,371 @@
+
+
+********************************************************************************
+Ligand in file C:/Users/noviasari/My Research/Re-docking/GOLD/atorvastatin.sdf, named Atorvastatin,
+starting at address 0 raised the following warnings and/or errors
+Warning message: 
+set_atom_type: can't deduce type of atom    1 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/atorvastatin.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom    3 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/atorvastatin.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   10 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/atorvastatin.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   11 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/atorvastatin.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   12 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/atorvastatin.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   13 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/atorvastatin.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   14 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/atorvastatin.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   17 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/atorvastatin.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   18 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/atorvastatin.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   19 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/atorvastatin.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   20 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/atorvastatin.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   21 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/atorvastatin.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   24 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/atorvastatin.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   25 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/atorvastatin.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   28 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/atorvastatin.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   29 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/atorvastatin.sdf, replacing by Du
+
+Warning message: 
+The valencies of these atoms are potentially suspicious:
+
+Atom no 1 (C.3) has 1 bond(s), should be 4
+Atom no 3 (C.3) has 1 bond(s), should be 4
+Atom no 10 (C.3) has 2 bond(s), should be 4
+Atom no 11 (C.3) has 2 bond(s), should be 4
+Atom no 12 (C.3) has 2 bond(s), should be 4
+Atom no 13 (C.3) has 2 bond(s), should be 4
+Atom no 14 (C.3) has 2 bond(s), should be 4
+Atom no 17 (C.3) has 2 bond(s), should be 4
+Atom no 18 (C.3) has 2 bond(s), should be 4
+Atom no 19 (C.3) has 2 bond(s), should be 4
+Atom no 20 (C.3) has 2 bond(s), should be 4
+Atom no 21 (C.3) has 2 bond(s), should be 4
+Atom no 24 (C.3) has 2 bond(s), should be 4
+Atom no 25 (C.3) has 2 bond(s), should be 4
+Atom no 28 (C.3) has 2 bond(s), should be 4
+Atom no 29 (C.3) has 2 bond(s), should be 4
+Atom no 31 (C.3) has 2 bond(s), should be 4
+Atom no 32 (C.3) has 2 bond(s), should be 4
+Atom no 35 (C.3) has 2 bond(s), should be 4
+Atom no 38 (C.3) has 2 bond(s), should be 4
+
+This could be because of atom-typing problems for connected atoms,
+because of a covalent link, or because your input ligand needs
+to be protonated.
+
+
+
+********************************************************************************
+Ligand in file C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf, named Unii-24P4O1J71F,
+starting at address 0 raised the following warnings and/or errors
+Warning message: 
+set_atom_type: can't deduce type of atom    1 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom    8 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   13 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   16 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   17 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   24 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   25 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   30 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   33 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   36 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   38 (currently N.3, 5) in C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf, replacing by Du
+
+Warning message: 
+The valencies of these atoms are potentially suspicious:
+
+Atom no 1 (C.3) has 1 bond(s), should be 4
+Atom no 8 (C.3) has 2 bond(s), should be 4
+Atom no 13 (C.3) has 1 bond(s), should be 4
+Atom no 14 (C.3) has 2 bond(s), should be 4
+Atom no 16 (C.3) has 2 bond(s), should be 4
+Atom no 17 (C.3) has 2 bond(s), should be 4
+Atom no 24 (C.3) has 2 bond(s), should be 4
+Atom no 25 (C.3) has 2 bond(s), should be 4
+Atom no 30 (C.3) has 2 bond(s), should be 4
+Atom no 33 (C.3) has 2 bond(s), should be 4
+Atom no 36 (C.3) has 2 bond(s), should be 4
+Atom no 38 (N.3) has 1 bond(s), should be 3
+
+This could be because of atom-typing problems for connected atoms,
+because of a covalent link, or because your input ligand needs
+to be protonated.
+
+Warning message: 
+add_1lp_to_sp3: N.3 atom 38 has 1 connections
+
+Warning message: 
+   Ligand failure - Initialisation or docking failed for ligand file C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf
+   Error message: Lone pair addition failed. Please check any warnings above
+   in this file to identify which atom caused the problem
+   Started reading at 0
+   Ended reading at -1
+Moving on to the next ligand
+
+
+********************************************************************************
+Ligand in file C:/Users/noviasari/My Research/Re-docking/GOLD/drinabant.sdf, named DRINABANT,
+starting at address 0 raised the following warnings and/or errors
+Warning message: 
+atom no 16 in C:/Users/noviasari/My Research/Re-docking/GOLD/drinabant.sdf is deduced as N.pl3 but this may be
+in error (check bond types of connections)
+
+Warning message: 
+set_atom_type: can't deduce type of atom    1 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/drinabant.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom    7 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/drinabant.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   10 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/drinabant.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   13 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/drinabant.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   19 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/drinabant.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   20 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/drinabant.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   23 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/drinabant.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   24 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/drinabant.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   26 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/drinabant.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   27 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/drinabant.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   30 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/drinabant.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   31 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/drinabant.sdf, replacing by Du
+
+Warning message: 
+The valencies of these atoms are potentially suspicious:
+
+Atom no 1 (C.3) has 1 bond(s), should be 4
+Atom no 7 (C.3) has 2 bond(s), should be 4
+Atom no 10 (C.3) has 2 bond(s), should be 4
+Atom no 13 (C.3) has 2 bond(s), should be 4
+Atom no 15 (C.3) has 2 bond(s), should be 4
+Atom no 19 (C.3) has 2 bond(s), should be 4
+Atom no 20 (C.3) has 2 bond(s), should be 4
+Atom no 23 (C.3) has 2 bond(s), should be 4
+Atom no 24 (C.3) has 2 bond(s), should be 4
+Atom no 26 (C.3) has 2 bond(s), should be 4
+Atom no 27 (C.3) has 2 bond(s), should be 4
+Atom no 30 (C.3) has 2 bond(s), should be 4
+Atom no 31 (C.3) has 2 bond(s), should be 4
+Atom no 32 (C.3) has 2 bond(s), should be 4
+
+This could be because of atom-typing problems for connected atoms,
+because of a covalent link, or because your input ligand needs
+to be protonated.
+
+Warning message: 
+init_ligand: Cannot successfully map ligand into active site
+
+Warning message: 
+   Ligand failure - Initialisation or docking failed for ligand file C:/Users/noviasari/My Research/Re-docking/GOLD/drinabant.sdf
+   Error message: Insufficient mapping points to define a 3D mapping
+   Started reading at 0
+   Ended reading at -1
+Moving on to the next ligand
+
+
+********************************************************************************
+Ligand in file C:/Users/noviasari/My Research/Re-docking/GOLD/meppep.sdf, named MEPPEP,
+starting at address 0 raised the following warnings and/or errors
+Warning message: 
+set_atom_type: can't deduce type of atom    1 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/meppep.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom    4 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/meppep.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom    5 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/meppep.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom    6 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/meppep.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   13 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/meppep.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   15 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/meppep.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   16 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/meppep.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   17 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/meppep.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   18 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/meppep.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   19 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/meppep.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   24 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/meppep.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   25 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/meppep.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   31 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/meppep.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   32 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/meppep.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   33 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/meppep.sdf, replacing by Du
+
+Warning message: 
+The valencies of these atoms are potentially suspicious:
+
+Atom no 1 (C.3) has 1 bond(s), should be 4
+Atom no 4 (C.3) has 2 bond(s), should be 4
+Atom no 5 (C.3) has 2 bond(s), should be 4
+Atom no 6 (C.3) has 2 bond(s), should be 4
+Atom no 9 (C.3) has 2 bond(s), should be 4
+Atom no 13 (C.3) has 1 bond(s), should be 4
+Atom no 15 (C.3) has 2 bond(s), should be 4
+Atom no 16 (C.3) has 2 bond(s), should be 4
+Atom no 17 (C.3) has 2 bond(s), should be 4
+Atom no 18 (C.3) has 2 bond(s), should be 4
+Atom no 19 (C.3) has 2 bond(s), should be 4
+Atom no 24 (C.3) has 2 bond(s), should be 4
+Atom no 25 (C.3) has 2 bond(s), should be 4
+Atom no 31 (C.3) has 2 bond(s), should be 4
+Atom no 32 (C.3) has 2 bond(s), should be 4
+Atom no 33 (C.3) has 2 bond(s), should be 4
+
+This could be because of atom-typing problems for connected atoms,
+because of a covalent link, or because your input ligand needs
+to be protonated.
+
+
+
+********************************************************************************
+Ligand in file C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf, named OTENABANT,
+starting at address 0 raised the following warnings and/or errors
+Warning message: 
+set_atom_type: can't deduce type of atom    1 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom    6 (currently N.3, 5) in C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   13 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   20 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   21 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   22 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   23 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   28 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   29 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   32 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf, replacing by Du
+
+Warning message: 
+set_atom_type: can't deduce type of atom   33 (currently C.3, 0) in C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf, replacing by Du
+
+Warning message: 
+The valencies of these atoms are potentially suspicious:
+
+Atom no 1 (C.3) has 1 bond(s), should be 4
+Atom no 2 (C.3) has 2 bond(s), should be 4
+Atom no 6 (N.3) has 1 bond(s), should be 3
+Atom no 8 (C.3) has 2 bond(s), should be 4
+Atom no 9 (C.3) has 2 bond(s), should be 4
+Atom no 13 (C.3) has 2 bond(s), should be 4
+Atom no 20 (C.3) has 2 bond(s), should be 4
+Atom no 21 (C.3) has 2 bond(s), should be 4
+Atom no 22 (C.3) has 2 bond(s), should be 4
+Atom no 23 (C.3) has 2 bond(s), should be 4
+Atom no 28 (C.3) has 2 bond(s), should be 4
+Atom no 29 (C.3) has 2 bond(s), should be 4
+Atom no 32 (C.3) has 2 bond(s), should be 4
+Atom no 33 (C.3) has 2 bond(s), should be 4
+Atom no 34 (C.3) has 2 bond(s), should be 4
+Atom no 35 (C.3) has 2 bond(s), should be 4
+
+This could be because of atom-typing problems for connected atoms,
+because of a covalent link, or because your input ligand needs
+to be protonated.
+
+Warning message: 
+add_1lp_to_sp3: N.3 atom 6 has 1 connections
+
+Warning message: 
+   Ligand failure - Initialisation or docking failed for ligand file C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf
+   Error message: Lone pair addition failed. Please check any warnings above
+   in this file to identify which atom caused the problem
+   Started reading at 0
+   Ended reading at -1
+Moving on to the next ligand

@@ -1,0 +1,30 @@
+Beginning ligand file 'C:/Users/noviasari/My Research/Re-docking/GOLD/atorvastatin.sdf'
+Starting at ligand 1 (byte position 0) in file 'C:/Users/noviasari/My Research/Re-docking/GOLD/atorvastatin.sdf'
+Finishing at final ligand in file 'C:/Users/noviasari/My Research/Re-docking/GOLD/atorvastatin.sdf'
+Completed docking of ligand 1 in ligand file 'C:/Users/noviasari/My Research/Re-docking/GOLD/atorvastatin.sdf' in 10.867 seconds
+Beginning ligand file 'C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf'
+Starting at ligand 1 (byte position 0) in file 'C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf'
+Finishing at final ligand in file 'C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf'
+Completed docking of ligand 1 in ligand file 'C:/Users/noviasari/My Research/Re-docking/GOLD/BIRT-2584.sdf' in 0.001 seconds
+Beginning ligand file 'C:/Users/noviasari/My Research/Re-docking/GOLD/drinabant.sdf'
+Starting at ligand 1 (byte position 0) in file 'C:/Users/noviasari/My Research/Re-docking/GOLD/drinabant.sdf'
+Finishing at final ligand in file 'C:/Users/noviasari/My Research/Re-docking/GOLD/drinabant.sdf'
+Completed docking of ligand 1 in ligand file 'C:/Users/noviasari/My Research/Re-docking/GOLD/drinabant.sdf' in 0.019 seconds
+Beginning ligand file 'C:/Users/noviasari/My Research/Re-docking/GOLD/meppep.sdf'
+Starting at ligand 1 (byte position 0) in file 'C:/Users/noviasari/My Research/Re-docking/GOLD/meppep.sdf'
+Finishing at final ligand in file 'C:/Users/noviasari/My Research/Re-docking/GOLD/meppep.sdf'
+Completed docking of ligand 1 in ligand file 'C:/Users/noviasari/My Research/Re-docking/GOLD/meppep.sdf' in 3.571 seconds
+Beginning ligand file 'C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf'
+Starting at ligand 1 (byte position 0) in file 'C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf'
+Finishing at final ligand in file 'C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf'
+Completed docking of ligand 1 in ligand file 'C:/Users/noviasari/My Research/Re-docking/GOLD/otenabant.sdf' in 0.002 seconds
+
+Finished GOLD batch job, exiting..
+
+
+--------------------------------------------------------------------------------
+
+* Total run time :                                                              
+  total 14.0009 user 14.0006 sys  0.0003
+
+--------------------------------------------------------------------------------
