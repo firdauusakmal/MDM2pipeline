@@ -28,7 +28,11 @@ This repository contains a comprehensive pipeline for identifying potential MDM2
    - Formed D2 dataset from curated bioactive libraries.
    - Standardized molecules using the same SMILES protocol as D1.
 
-4. **Structure-Based Virtual Screening (SBVS)**:
+4. **ML-Based Virtual Screening (MLVS)**:
+   - Predicted pIC50 values of D2 compounds using the best-performing ML model.
+   - Selected top-ranked compounds based on predicted potency.
+
+5. **Structure-Based Virtual Screening (SBVS)**:
    - Used MDM2 crystal structure (PDB ID: 6Q9L, 1.13 Å) from RCSB.
    - Protein preprocessing: removed water, adjusted protonation (pH 7.4).
    - Performed docking using MOE 2022.02, with:
@@ -37,7 +41,7 @@ This repository contains a comprehensive pipeline for identifying potential MDM2
    - Docked D2 compounds into the p53-binding site of MDM2.
    - Benchmarked docking results against known MDM2 inhibitors to select top candidates (H1 hits).
 
-5. **Redocking Analysis (redocking)**:
+6. **Redocking Analysis (redocking)**:
    - Redocked H1 compounds to:
      1. Primary (p1) p53-binding pocket
      2. Secondary (p2) site detected in MOE.
@@ -47,7 +51,7 @@ This repository contains a comprehensive pipeline for identifying potential MDM2
      2. MDM4/MDMX (PDB ID: 6Q9Y, 1.2 Å)
    - Final hits (H2 compounds) were shortlisted based on docking outcomes.
 
-6. **ONIOM Simulations (oniom)**:
+7. **ONIOM Simulations (oniom)**:
    - Refined MDM2–H2 complexes using ONIOM in Gaussian 16 via MOE interface.
    - System partition:
      1. High-level (QM): Ligand layer using ωB97X-D/6-31G*.
@@ -55,7 +59,7 @@ This repository contains a comprehensive pipeline for identifying potential MDM2
    - Analyzed optimized geometries and binding modes
    - Calculated non-covalent interaction energies using Extended Hückel Theory (EHT) in MOE.
    
-7. **Molecular Dynamics Simulations (md)**:
+8. **Molecular Dynamics Simulations (md)**:
    - Simulated MDM2–H2 complexes using MOE’s MD module.
    - Applied Nosé–Poincaré–Andersen (NPA) integrator.
    - Simulation environment:
