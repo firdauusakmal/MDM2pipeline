@@ -12,7 +12,7 @@ This repository contains a comprehensive pipeline for identifying potential MDM2
    - Docking score results from molecular docking simulations of D2 compounds against MDM2 protein.
 6. **Redocking Analysis (redocking)**:   
 7. **Molecular Dynamics Simulations (md)**:
-   - MePPEP (MP), Atorvastatin (AT), and Otenabant (OT) QM/MM-optimized structure for MD inputs.
+   - MePPEP (MP), Atorvastatin (AT), and Otenabant (OT) QM/MM-optimized structures for MD inputs.
 
 ## How to Use
 
