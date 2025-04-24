@@ -6,7 +6,6 @@ This repository contains a comprehensive pipeline for identifying potential MDM2
 
 1. **Training Dataset Preparation (D1_prep)**:
    - Collected known MDM2 inhibitors with IC50 values from the ChEMBL database to form the D1 dataset.
-   - Used Pandas 2.1.4 in Python 3.11.4 for data cleaning and preprocessing.
    - Applied molecular scaffold splitting, setting aside 10% as an final testing set (D1_testing).
    - Standardized molecular SMILES using MolVS under the RDKit framework.
    - Applied the Selective Cleaning (SC) pipeline by:
