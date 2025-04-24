@@ -29,16 +29,9 @@ This repository contains a comprehensive pipeline for identifying potential MDM2
 
 4. **ML-Based Virtual Screening (MLVS)**:
    - Predicted pIC50 values of D2 compounds using the best-performing ML model.
-   - Selected top-ranked compounds based on predicted potency.
 
 5. **Structure-Based Virtual Screening (SBVS)**:
-   - Used MDM2 crystal structure (PDB ID: 6Q9L, 1.13 Å) from RCSB.
-   - Protein preprocessing: removed water, adjusted protonation (pH 7.4).
-   - Performed docking using MOE 2022.02, with:
-     1. Triangle Matcher placement
-     2. Fixed receptor conformation
-   - Docked D2 compounds into the p53-binding site of MDM2.
-   - Benchmarked docking results against known MDM2 inhibitors to select top candidates (H1 hits).
+   - Docking score results from molecular docking simulations of D2 compounds against MDM2 protein.
 
 6. **Redocking Analysis (redocking)**:
    - Redocked H1 compounds to:
@@ -49,23 +42,9 @@ This repository contains a comprehensive pipeline for identifying potential MDM2
      1. BCL2 (PDB ID: 8HTS, 1.25 Å)
      2. MDM4/MDMX (PDB ID: 6Q9Y, 1.2 Å)
    - Final hits (H2 compounds) were shortlisted based on docking outcomes.
-
-7. **ONIOM Simulations (oniom)**:
-   - Refined MDM2–H2 complexes using ONIOM in Gaussian 16 via MOE interface.
-   - System partition:
-     1. High-level (QM): Ligand layer using ωB97X-D/6-31G*.
-     2. Low-level (MM): Receptor with AMBER10 force field.
-   - Analyzed optimized geometries and binding modes
-   - Calculated non-covalent interaction energies using Extended Hückel Theory (EHT) in MOE.
    
-8. **Molecular Dynamics Simulations (md)**:
-   - Simulated MDM2–H2 complexes using MOE’s MD module.
-   - Applied Nosé–Poincaré–Andersen (NPA) integrator.
-   - Simulation environment:
-     1. Solvated in KCl 0.15 M, cell size: 50.5 × 40 × 40 Å³
-     2. Density: ρ = 1.022 g/cm³.
-   - Simulation stages: Heating (100 ps) → NVT (100 ps) → NPT (200 ps) at 310 K, 101.3 kPa.
-   - Production run: 100 ns at 2 fs timestep to observe dynamic binding behavior.
+7. **Molecular Dynamics Simulations (md)**:
+   - MePPEP (MP), Atorvastatin (AT), and Otenabant (OT) QM/MM-optimized structure as MD inputs. .
 
 ## How to Use
 
