@@ -4,47 +4,15 @@ This repository contains a comprehensive pipeline for identifying potential MDM2
 
 ## Overview
 
-1. **Training Dataset Preparation (D1_prep)**:
-   - Collected known MDM2 inhibitors with IC50 values from the ChEMBL database to form the D1 dataset.
-   - Applied molecular scaffold splitting, setting aside 10% as an final testing set (D1_testing).
-   - Standardized molecular SMILES using MolVS under the RDKit framework.
-   - Applied the Selective Cleaning (SC) pipeline by:
-     1. Grouping bioactivities by assay procedure (descending order of occurrence)
-     2. Sorting values within each group
-     3. Retaining the highest pIC50 value per molecule while removing redundant entries.
-
+1. **Training Dataset Preparation (D1_prep)**
 2. **Machine Learning Selection & Optimization (ML_opt)**:
-   - Feature Extraction: Generated molecular fingerprints from SMILES.
-   - Data Splitting: Split into training and validation sets (80:20 ratio).
-   - Model Training:
-     1. Trained multiple ML models via scikit-learn 1.4.0, including: kNN, Decision Tree, Random Forest, AdaBoost, XGBoost, Gradient Boosting, Histogram Gradient Boosting, SGD, and MLP.
-     2. Trained deep learning models using ChemProp 1.6.1 (GCNN-based) on same data.
-     3. Hyperparameter Tuning: Applied for all models, including epochs and Bayesian optimization.
-   - Final Evaluation: Tested top models on D1_testing to assess generalization performance.
-  
 3. **Repurposing Dataset Preparation (D2_prep)**:
-   - Collected compounds with therapeutic indications from: ChEMBL, PubChem, DrugCentral, and DrugBank.
-   - Formed D2 dataset from curated bioactive libraries.
-   - Standardized molecules using the same SMILES protocol as D1.
-
 4. **ML-Based Virtual Screening (MLVS)**:
-   - Predicted pIC50 values of D2 compounds using the best-performing ML model.
-
 5. **Structure-Based Virtual Screening (SBVS)**:
    - Docking score results from molecular docking simulations of D2 compounds against MDM2 protein.
-
-6. **Redocking Analysis (redocking)**:
-   - Redocked H1 compounds to:
-     1. Primary (p1) p53-binding pocket
-     2. Secondary (p2) site detected in MOE.
-   - Performed consensus docking using: MOE, AutoDock Vina, and GOLD.Validated site preference and ranking consistency.
-   - Also docked H1 compounds against (off-target affinities):
-     1. BCL2 (PDB ID: 8HTS, 1.25 Å)
-     2. MDM4/MDMX (PDB ID: 6Q9Y, 1.2 Å)
-   - Final hits (H2 compounds) were shortlisted based on docking outcomes.
-   
+6. **Redocking Analysis (redocking)**:   
 7. **Molecular Dynamics Simulations (md)**:
-   - MePPEP (MP), Atorvastatin (AT), and Otenabant (OT) QM/MM-optimized structure as MD inputs. .
+   - MePPEP (MP), Atorvastatin (AT), and Otenabant (OT) QM/MM-optimized structure for MD inputs.
 
 ## How to Use
 
